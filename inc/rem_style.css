@@ -1,0 +1,10 @@
+#rem_recipients_tbl, #rem_clean_db_tbl { margin-left: 20px;}
+#rem_recipients_tbl td, #rem_clean_db_tbl td{ padding: 2px 16px; }
+
+input#subject { margin-left: 20px; }
+div#content_area, div#html_preview { margin-left: 85px; width: 500px;}
+textarea#content { padding: 10px; border-radius:5px; width: 100%; min-height: 100px; margin:auto; overflow: hidden;}
+textarea#content:focus, #tabs-1 input:focus { box-shadow: 0 0 2px 2px 	#BFBFBF; }
+
+div#html_preview { display: none; }
+div#html_preview > div { padding: 10px; border: 1px solid #DFDFDF; background-color: #FFF; }
